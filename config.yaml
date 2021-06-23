@@ -1,0 +1,5 @@
+---
+azure_storage_account_name: "nitinstorageazure"
+azure_storage_account_key: "zVg54DKtp4iQPdUNXdIJo9uNUrG7KcnCEROZc3mbeeUYPQYZkcG9ey26VTNUEwDiDonXl3Nbpr3meQYhUu+4qQ=="
+azure_storage_connectionstring: "DefaultEndpointsProtocol=https;AccountName=nitinstorageazure;AccountKey=zVg54DKtp4iQPdUNXdIJo9uNUrG7KcnCEROZc3mbeeUYPQYZkcG9ey26VTNUEwDiDonXl3Nbpr3meQYhUu+4qQ==;EndpointSuffix=core.windows.net"
+azure_sas_expiration_time: 30
